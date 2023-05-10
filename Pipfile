@@ -9,6 +9,8 @@ pandas = "*"
 scipy = "*"
 matplotlib = "*"
 seaborn = "*"
+plotly = "*"
+pycountry = "*"
 
 [dev-packages]
 
